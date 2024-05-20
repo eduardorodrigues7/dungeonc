@@ -789,6 +789,8 @@ int main() {
             	system("cls");
             	printf("PARABENS, VOCE VENCEU O JOGO!\n");
             	system("pause");
+            	printf("feito por:\nCesar Ribeiro\nEduardo Rodrigues\nEverton Oliveira\n");
+            	system("pause");
             	main(); // Retornar ao menu principal após a vitória
             }
 		}
